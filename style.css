@@ -1,0 +1,43 @@
+ span
+ {
+     color: red;
+     font-size: 16px;
+ }	
+ li img
+ {
+     width: 200px;
+     border-radius: 20px;
+ }
+ .bob
+ {
+     background: #F9B5AC;
+     padding: 30px;
+     border-radius: 20px;
+     width: 50%;
+     display: inline-block;
+     box-shadow: 5px 5px 18px grey;
+     margin-top: 25px;
+ }
+ b
+ {
+     color: #183059;
+ }
+ 
+ .bob3
+ {
+     text-align: center;
+     background: #8F95D3;
+     color: black;
+     font-weight: bolder;
+     border-radius: 20px;
+     padding: 10px;
+ }
+
+ li {
+     color: #DD1C1A;
+     font-size: 20px;
+ }
+
+body{
+    background-color: #EA5F1F;
+}
